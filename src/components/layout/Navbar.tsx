@@ -40,7 +40,7 @@ export function Navbar() {
             <div className="h-8 w-8 rounded-lg bg-gradient-primary flex items-center justify-center">
               <span className="text-primary-foreground font-bold text-lg">T</span>
             </div>
-            <span className="text-xl font-bold">NR INFOTECH</span>
+            <span className="font-bold text-xl">NR INFOTECH</span>
           </Link>
 
           {/* Desktop Navigation */}
