@@ -1,73 +1,94 @@
-# Welcome to your Lovable project
+# NR-INFOTECH - Innovative Technology Solutions
 
-## Project info
+A modern React application showcasing NR-INFOTECH's services, built with cutting-edge web technologies.
 
-**URL**: https://lovable.dev/projects/11ed3960-375f-4f57-958a-acd09721effb
+## 🌐 Live Demo
 
-## How can I edit this code?
+**URL**: https://nishanth-raju.github.io/
 
-There are several ways of editing your application.
+## 📋 Project Info
 
-**Use Lovable**
+**Repository**: https://github.com/Nishanth-Raju/nishanth-raju.github.io
+**Deployment**: GitHub Pages
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/11ed3960-375f-4f57-958a-acd09721effb) and start prompting.
+## 🚀 Getting Started
 
-Changes made via Lovable will be committed automatically to this repo.
+### Prerequisites
 
-**Use your preferred IDE**
+- Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+### Local Development
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+# Step 1: Clone the repository
+git clone https://github.com/Nishanth-Raju/nishanth-raju.github.io.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# Step 2: Navigate to the project directory
+cd nishanth-raju.github.io
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Step 3: Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+The application will be available at `http://localhost:8080`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
+## 🛠️ Technologies Used
 
 This project is built with:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+- **Vite** - Fast build tool and development server
+- **TypeScript** - Type-safe JavaScript
+- **React** - UI library
+- **shadcn-ui** - Modern UI components
+- **Tailwind CSS** - Utility-first CSS framework
+- **Framer Motion** - Animation library
+- **React Router** - Client-side routing
 
-## How can I deploy this project?
+## 📦 Available Scripts
 
-Simply open [Lovable](https://lovable.dev/projects/11ed3960-375f-4f57-958a-acd09721effb) and click on Share -> Publish.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run preview` - Preview production build
+- `npm run lint` - Run ESLint
 
-## Can I connect a custom domain to my Lovable project?
+## 🚀 Deployment
 
-Yes, you can!
+The application is automatically deployed to GitHub Pages when changes are pushed to the `main` branch.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### Manual Deployment
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```sh
+# Build the project
+npm run build
+
+# The dist folder contains the production build
+# GitHub Pages serves from the /dist folder
+```
+
+## 📁 Project Structure
+
+```
+src/
+├── components/          # Reusable UI components
+│   ├── ui/             # shadcn-ui components
+│   └── sections/       # Page sections
+├── pages/              # Route components
+├── lib/                # Utilities and configurations
+├── hooks/              # Custom React hooks
+└── assets/             # Static assets
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📄 License
+
+This project is private and proprietary to NR-INFOTECH.
