@@ -30,9 +30,9 @@ export function About() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center mb-16">
           <div className="animate-fade-in">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">About TechCorp</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6">About nrinfotech</h2>
             <p className="text-lg text-muted-foreground mb-6">
-              Founded in 2008, TechCorp has grown from a small startup to a leading technology
+              Founded in 2008, nrinfotech has grown from a small startup to a leading technology
               solutions provider, serving clients across the globe. Our journey is built on a
               foundation of innovation, expertise, and unwavering commitment to excellence.
             </p>

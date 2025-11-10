@@ -20,7 +20,7 @@ export default function Documentation() {
           <div className="text-center mb-16 animate-fade-in">
             <h1 className="text-5xl md:text-6xl font-bold mb-4">Documentation</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Everything you need to know about working with TechCorp
+              Everything you need to know about working with nrinfotech
             </p>
           </div>
 
@@ -41,13 +41,13 @@ export default function Documentation() {
                     </div>
                     <CardTitle className="text-2xl">Quick Start Guide</CardTitle>
                     <CardDescription className="text-base">
-                      Get up and running with TechCorp services in minutes
+                      Get up and running with nrinfotech services in minutes
                     </CardDescription>
                   </CardHeader>
                   <CardContent className="prose prose-slate dark:prose-invert max-w-none">
                     <h3>1. Create an Account</h3>
                     <p>
-                      Sign up for a TechCorp account to access our full suite of services. Visit our
+                      Sign up for a nrinfotech account to access our full suite of services. Visit our
                       portal and complete the registration process.
                     </p>
 
@@ -176,7 +176,7 @@ export default function Documentation() {
                     <div>
                       <h3 className="font-semibold mb-2">Email Support</h3>
                       <p className="text-muted-foreground">
-                        Reach out to our support team at support@techcorp.com
+                        Reach out to our support team at support@nrinfotech.com
                       </p>
                     </div>
                     <div>

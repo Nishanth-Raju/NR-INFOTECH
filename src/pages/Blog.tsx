@@ -71,7 +71,7 @@ export default function Blog() {
           <div className="text-center mb-16 animate-fade-in">
             <h1 className="text-5xl md:text-6xl font-bold mb-4">Our Blog</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Insights, updates, and perspectives from the TechCorp team
+              Insights, updates, and perspectives from the nrinfotech team
             </p>
           </div>
 

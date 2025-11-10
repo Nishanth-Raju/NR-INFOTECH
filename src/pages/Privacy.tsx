@@ -21,7 +21,7 @@ export default function Privacy() {
               <section className="mb-8">
                 <h2 className="text-2xl font-bold mb-4">1. Introduction</h2>
                 <p className="text-muted-foreground">
-                  TechCorp ("we," "our," or "us") is committed to protecting your privacy. This
+                  nrinfotech ("we," "our," or "us") is committed to protecting your privacy. This
                   Privacy Policy explains how we collect, use, disclose, and safeguard your
                   information when you visit our website or use our services.
                 </p>
@@ -123,7 +123,7 @@ export default function Privacy() {
                   If you have any questions about this Privacy Policy, please contact us at:
                 </p>
                 <p className="text-muted-foreground mt-3">
-                  Email: privacy@techcorp.com
+                  Email: privacy@nrinfotech.com
                   <br />
                   Address: 123 Tech Street, San Francisco, CA 94105
                   <br />

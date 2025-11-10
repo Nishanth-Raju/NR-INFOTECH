@@ -42,7 +42,7 @@ export function Footer() {
               <div className="h-8 w-8 rounded-lg bg-gradient-primary flex items-center justify-center">
                 <span className="text-primary-foreground font-bold text-lg">T</span>
               </div>
-              <span className="text-xl font-bold">TechCorp</span>
+              <span className="text-xl font-bold">nrinfotech</span>
             </div>
             <p className="text-muted-foreground mb-6 max-w-md">
               Building innovative solutions that transform businesses and empower teams to achieve
@@ -51,7 +51,7 @@ export function Footer() {
             <div className="space-y-2 text-sm text-muted-foreground">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <span>contact@techcorp.com</span>
+                <span>contact@nrinfotech.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
@@ -117,7 +117,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-border flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
           <p className="text-sm text-muted-foreground">
-            © {currentYear} TechCorp. All rights reserved.
+            © {currentYear} nrinfotech. All rights reserved.
           </p>
           <div className="flex items-center space-x-4">
             {socialLinks.map((social) => (

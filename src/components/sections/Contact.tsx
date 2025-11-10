@@ -58,9 +58,9 @@ export function Contact() {
                 </div>
                 <CardTitle>Email Us</CardTitle>
                 <CardDescription className="text-base">
-                  contact@techcorp.com
+                  contact@nrinfotech.com
                   <br />
-                  support@techcorp.com
+                  support@nrinfotech.com
                 </CardDescription>
               </CardHeader>
             </Card>
